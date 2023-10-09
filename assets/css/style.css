@@ -29,6 +29,20 @@ header section {
   justify-content: space-between;
 }
 
+.nav-content {
+  display: none;
+  /* display: flex;
+  gap: 24px;
+  align-items: center; */
+}
+
+.nav-content a {
+  font-family: "Roboto-Rg";
+  font-size: 22px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+}
 /* ============ Main ============ */
 
 main {

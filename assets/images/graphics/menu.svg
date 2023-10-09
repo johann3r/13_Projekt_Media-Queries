@@ -1,7 +1,12 @@
-<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="div#toggle">
-<rect id="span.black" x="0.5" y="0.5" width="27" height="2" fill="black"/>
-<rect id="span.black_2" x="0.5" y="8.8" width="27" height="2" fill="black"/>
-<rect id="span.black_3" x="0.5" y="16.5" width="27" height="2" fill="black"/>
+<svg width="27" height="18" viewBox="0 0 27 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_505_10)">
+<path d="M27 0H0V2H27V0Z" fill="black"/>
+<path d="M27 8H0V10H27V8Z" fill="black"/>
+<path d="M27 16H0V18H27V16Z" fill="black"/>
 </g>
+<defs>
+<clipPath id="clip0_505_10">
+<rect width="27" height="18" fill="white"/>
+</clipPath>
+</defs>
 </svg>
