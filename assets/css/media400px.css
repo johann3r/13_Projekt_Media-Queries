@@ -1,0 +1,47 @@
+@media screen and (max-width: 400px) {
+  header {
+    padding: 40px 16px;
+  }
+
+  main {
+    padding: 0 16px;
+  }
+
+  article {
+    width: 100%;
+  }
+
+  footer {
+    padding: 112px 16px;
+  }
+  .footer-info-wrapper div a {
+    line-height: 40px;
+    font-size: 22px;
+  }
+
+  .footer-info-wrapper div p {
+    line-height: 40px;
+    font-size: 22px;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .bildunterschrift p {
+    padding: 8px 0;
+    font-size: 18px;
+  }
+
+  .footer-info-wrapper {
+    display: grid;
+    gap: 16px;
+  }
+
+  label {
+    line-height: 40px;
+    font-size: 22px;
+    padding-bottom: 8px;
+  }
+}
